@@ -5,7 +5,7 @@ Thesis submitted in partial fulfillment of the requirements for the degree of Ma
 README
 
 ## Overview
-In this repository you will find the code and data used for my thesis project. The project focuses on predicting manual bulky-order fulfilment lead times at Decathlon using supervised machine learning models. The analysis compares linear regression, ridge regression, Random Forest, HistGradientBoosting, and XGBoost for order-level lead-time prediction.
+In this repository you will find the code used for my thesis project. The project focuses on predicting manual bulky-order fulfilment lead times at Decathlon using supervised machine learning models. The analysis compares linear regression, ridge regression, Random Forest, HistGradientBoosting, and XGBoost for order-level lead-time prediction.
 
 ## Requirements
 Python 3.11.5

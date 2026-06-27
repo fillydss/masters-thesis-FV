@@ -10,13 +10,15 @@ In this repository you will find the code used for my thesis project. The projec
 ## Requirements
 Python 3.11.5
 
-NumPy
+NumPy 2.3.3
 
-Pandas
+Pandas 2.3.2
 
-Scikit-learn (version 1.2 or newer)
+Scikit-learn 1.7.2
 
-XGBoost
+XGBoost 3.2.0
+
+matplotlib 3.11.0 (Only for figures - ADD FINAL VERSION OF FIGURES SCRIPT)
 
 Install dependencies with:
 

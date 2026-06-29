@@ -18,8 +18,6 @@ Scikit-learn 1.7.2
 
 XGBoost 3.2.0
 
-matplotlib 3.11.0 (Only for figures - ADD FINAL VERSION OF FIGURES SCRIPT + ADD REQUIREMENTS TXT FINAL VERSION)
-
 Install dependencies with:
 
 pip install -r requirements.txt
